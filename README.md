@@ -1,3 +1,3 @@
 # Pandas_Notebook
-![image](https://user-images.githubusercontent.com/76479205/126817978-b61f7969-e4fc-4ec5-9f19-955079de34fa.png)
+![Pandas](https://user-images.githubusercontent.com/76479205/126818157-6f6f90be-6186-4840-8544-cf1b9a777eb4.jpg)
 

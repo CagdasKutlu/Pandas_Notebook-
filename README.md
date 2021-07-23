@@ -1,2 +1,3 @@
 # Pandas_Notebook
-![1200px-Pandas_logo svg](https://user-images.githubusercontent.com/76479205/126817905-d2b9f032-3bc0-4e10-9c0d-e250ffb21966.png)
+![image](https://user-images.githubusercontent.com/76479205/126817978-b61f7969-e4fc-4ec5-9f19-955079de34fa.png)
+
